@@ -1,4 +1,3 @@
-// Grootte van het scherm
 size(600, 400);
 background(200);
 
